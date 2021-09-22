@@ -29,6 +29,6 @@ npm install pm2 -g
 pm2 start main.py --interprete=python3 --name=TgDelBot
 ```
 ### Features
-- **Delete all messages in this chat - /delall**
-- **Deleting an arbitrary number of messages - oh or oh*number***
-- **Deleting an arbitrary number of messages with editing - oh- or oh-*number***
+- **Delete all messages in this chat – /delall**
+- **Deleting an arbitrary number of messages – oh or oh*number***
+- **Deleting an arbitrary number of messages with editing – oh- or oh-*number***
