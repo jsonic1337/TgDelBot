@@ -1,8 +1,8 @@
 from pyrogram import Client, filters
 
 delall = "/delall"
-del_count = "ой"
-del_count_edit = "ой-"
+del_count = "oh"
+del_count_edit = "oh-"
 
 app = Client(
     "my_account",
