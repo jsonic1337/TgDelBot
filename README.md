@@ -26,7 +26,7 @@ For the script to work permanently, we use pm2:
 ```
 npm install pm2 -g
 
-pm2 start main.py --interprete=python3 --name=TgDelBot
+pm2 start main.py --interpreter=python3 --name=TgDelBot
 ```
 ### Features
 - **Delete all messages in this chat – /delall**
